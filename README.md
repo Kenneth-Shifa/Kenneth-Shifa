@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Kenneth Shifa<br>Full-Stack Developer | Passionate about Scalable & Efficient Software<br><br>🎓 Currently studying Computer Programming and Analysis at George Brown College<br>🌱 In my 4th semester, exploring the intersections of finance, blockchain, AI, and machine learning<br>💡 Passionate about backend development, database design, and building seamless web applications<br>💻 Hands-on experience in Java, C#, Python, JavaScript, SQL, and ASP.NET Core<br>🚀 Always excited to work on scalable, efficient, and user-centric software solutions
+👋 Hi there! I'm Kenneth Shifa<br>Full-Stack Developer | Passionate about Scalable & Efficient Software<br><br>🎓 Currently studying Computer Programming and Analysis at George Brown College<br>🌱 In my 4th semester, diving deep into emerging technologies like AI and machine learning, with a keen interest in their applications in finance and software innovation.<br>💡 Passionate about backend development, database design, and building seamless web applications<br>💻 Hands-on experience in Java, C#, Python, JavaScript, SQL, and ASP.NET Core<br>🚀 Always excited to work on scalable, efficient, and user-centric software solutions
 
 
 ## 🌐 Socials:
